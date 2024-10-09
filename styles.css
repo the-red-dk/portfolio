@@ -448,6 +448,9 @@ h3 {
   background-color: #000;
   color: #fff;
 }
+/* .hamg {
+  display: none;
+} */
 
 
 @keyframes slide {
@@ -481,10 +484,22 @@ h3 {
   .now2 {
     font-size: 2em;
   }
+
+  /* .sub-header {
+    display: none;
+  }
+
+  .sub-hearder2 {
+    display: flex;
+  } */
+
+  /* .hamb {
+    display: none;
+  } */
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 660px) {
   .sub-header {
     display: none;
   }
