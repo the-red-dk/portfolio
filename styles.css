@@ -271,13 +271,12 @@ a:hover {
 .set p {
   margin: 0;
 }
-.ss {
+/* .ss {
   height: 250px;
   border-radius: 10px;
   transition: box-shadow 0.1s;
   z-index: -1;
-  /* cursor: url("images/pointer.svg"), pointer, auto; */
-}
+} */
 
 .ss2 {
   height: 250px;
