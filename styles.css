@@ -81,7 +81,8 @@ body {
 }
 .name {
   font-size: 1.5em;
-  font-family: "Clash-Display";
+  font-family: "Clash-Display", "Gotham Black", 'Segoe UI';
+  font-weight: bolder;
 }
 
 
