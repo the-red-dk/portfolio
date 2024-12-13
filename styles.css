@@ -214,6 +214,7 @@ a:hover {
   font-weight: 700;
   font-size: 2.5em;
   margin-left: 50px;
+  scroll-snap-align: start;
 }
 .project-head2 {
   font-family: "Synonym";
